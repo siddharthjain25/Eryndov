@@ -1,0 +1,7 @@
+build/
+data/
+*.log
+*.pgn
+*.dat
+*.dat
+*.o
